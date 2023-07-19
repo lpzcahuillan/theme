@@ -14,7 +14,7 @@ export const nav = [
 	},
 	{
 		title: 'Nosotros',
-		slug: '/company/',
+		slug: '/company/nosotros',
 	},
 	{
 		title: 'Blog',
