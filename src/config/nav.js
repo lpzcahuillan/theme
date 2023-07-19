@@ -1,13 +1,6 @@
 export const nav = [
 	{
 		title: 'Servicios',
-<<<<<<< Updated upstream
-		slug: '/company/contact',
-	},
-	{
-		title: 'Nosotros',
-		slug: '/company/about',
-=======
 		items: [
 			{
 				title: 'Derecho corporativo',
@@ -21,8 +14,7 @@ export const nav = [
 	},
 	{
 		title: 'Nosotros',
-		slug: '/company/nosotros',
->>>>>>> Stashed changes
+		slug: '/company/',
 	},
 	{
 		title: 'Blog',
